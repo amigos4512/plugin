@@ -1,12 +1,18 @@
-Here is a simple footnote[^1].
+# Getting Started with Create React App
 
-A footnote can also have multiple lines[^2].  
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can also use words, to fit your writing style more closely[^note].
+## Available Scripts
 
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
+In the project directory, you can run:
+
+### `yarn start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `yarn test`
+
