@@ -1,8 +1,7 @@
-[![Build][build-badge]][build]
-[![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
-[![Size][size-badge]][size]
-[![Sponsors][sponsors-badge]][collective]
-[![Backers][backers-badge]][collective]
-[![Chat][chat-badge]][chat]
+### Use a plugin
+
+This example shows how to use a remark plugin.
+In this case, [`remark-gfm`][gfm], which adds support for
+strikethrough, tables, tasklists and URLs directly:
+
  
