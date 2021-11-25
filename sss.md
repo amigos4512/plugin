@@ -1,18 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
+`SAP Security Learning We detected that you are using AWS console but have not yet taken
+  the [Cloud Security Fundamentals](https://google.com) training. Did you know that if not using [BTP](https://google.com)
+  , SAP policy requires an exception approving the use of any cloud hosting services? For more information, review the
+  training on [Cloud Security Fundamentals](https://google.com), or reach out to your
+  local [Application Security Lead](https://google.com)`;
+  console.log('Props at BAR - ', data);
