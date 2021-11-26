@@ -4,7 +4,15 @@ Here is a simple footnote[^1].
 A footnote can also have multiple lines[^2].  
 
 You can also use words, to fit your writing style more closely[^note].
+This site was built using [GitHub Pages](https://pages.github.com/).
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
+> Text that is a quote
+> Use `git status` to list all new or modified files that haven't yet been committed.
+> - [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
