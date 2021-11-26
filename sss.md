@@ -3,5 +3,8 @@
   , SAP policy requires an exception approving the use of any cloud hosting services? For more information, review the
   training on [Cloud Security Fundamentals](https://google.com), or reach out to your
   local [Application Security Lead](https://google.com);
+  Please refer to the following page for our responsible disclosure policy, reward guidelines, and those things that should not be reported:
+
+https://www.facebook.com/whitehat
 
  
