@@ -1,13 +1,26 @@
 ### Breaking changes
 
-*   [`01b11fe`](https://github.com/remarkjs/react-markdown/commit/01b11fe)
-    [`c613efd`](https://github.com/remarkjs/react-markdown/commit/c613efd)
-    [`a1e1c3f`](https://github.com/remarkjs/react-markdown/commit/a1e1c3f)
-    [`aeee9ac`](https://github.com/remarkjs/react-markdown/commit/aeee9ac)
-    Use ESM
-    (please [read this](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c))
-*   [`3dffd6a`](https://github.com/remarkjs/react-markdown/commit/3dffd6a)
-    Update dependencies
-    (upgrade all your plugins and this should go fine)
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at <opensource-conduct@fb.com>. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
+
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see
+https://www.contributor-covenant.org/faq
 
  
