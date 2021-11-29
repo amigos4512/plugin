@@ -1,37 +1,41 @@
 version: 1.0
 microtrainings:
-  - pattern: '^https?://console\.aws\.com(:.*|(/.*))?$'
+  - pattern: '^https?://aws\\.amazon\\.com(:.*|(/.*))?$'
     category: 'SAP Security Learning'
     name: 'AWS Usage'
     path: './AWS Usage.md'
+    url: 'https://raw.githubusercontent.com/amigos4512/plugin/main/sss.md'
     enable: true
-  - pattern: '^https?://console\.aws\.com(:.*|(/.*))?$'
-    category: 'SAP Security Learning'
+  - pattern: '^https?://console\\.aws\\.com(:.*|(/.*))?$'
+    category: 'SAP Procurement Learning'
     name: 'AWS Usage 2'
     path: './AWS Usage.md'
     enable: true
-  - pattern: '^https?://console\.aws\.com(:.*|(/.*))?$'
+  - pattern: '^https?://console\\.aws\\.com(:.*|(/.*))?$'
     category: 'Test Security Learning'
     name: 'AWS Usage test'
     path: './AWS Usage.md'
     enable: true
-  - pattern: 'https?://console\.cloud\.com(:.*|(/.*))?$'
+  - pattern: 'https?://console\\.cloud\\.com(:.*|(/.*))?$'
     category: 'SAPs Security Learning'
     name: 'Cloud Hosting'
     path: './Cloud Hosting.md'
     enable: true
-  - pattern: 'https?://stackoverflow\.com(:.*|(/.*))?$'
+  - pattern: 'https?://stackoverflow\\.com(:.*|(/.*))?$'
     category: 'SAP Security Learning'
     name: 'Stackoverflow'
     path: './Stackoverflow.md'
+    url: 'https://raw.githubusercontent.com/amigos4512/plugin/main/sss.md'
     enabled: true
-  - pattern: 'https?://stackoverflow\.com(:.*|(/.*))?$'
+  - pattern: 'https?://stackoverflow\\.com(:.*|(/.*))?$'
     category: 'SAP Security Learning'
     name: 'Stackoverflow 1'
     path: './Stackoverflow.md'
+    url: 'https://raw.githubusercontent.com/amigos4512/plugin/main/file.md'
     enabled: true
-  - pattern: 'https?://stackoverflow\.com(:.*|(/.*))?$'
-    category: 'SAP2 Security Learning'
+  - pattern: 'https?://stackoverflow\\.com(:.*|(/.*))?$'
+    category: 'SAP Procurement Learning'
     name: 'Stackoverflow a'
     path: './Stackoverflow.md'
+    url: 'https://raw.githubusercontent.com/amigos4512/plugin/main/README.md'
     enabled: true
