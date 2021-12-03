@@ -1,16 +1,8 @@
-## Documentation
+  SAP Security Learning We detected that you are using AWS console but have not yet taken
+  the [Cloud Security Fundamentals](https://google.com) training. Did you know that if not using [BTP](https://google.com)
+  , SAP policy requires an exception approving the use of any cloud hosting services? For more information, review the
+  training on [Cloud Security Fundamentals](https://google.com), or reach out to your
+  local [Application Security Lead](https://google.com);
+  Please refer to the following page for our responsible disclosure policy, reward guidelines, and those things that should not be reported:
 
-You can find the React documentation [on the website](https://reactjs.org/).  
-
-Check out the [Getting Started](https://reactjs.org/docs/getting-started.html) page for a quick overview.
-
-The documentation is divided into several sections:
-
-* [Tutorial](https://reactjs.org/tutorial/tutorial.html)
-* [Main Concepts](https://reactjs.org/docs/hello-world.html)
-* [Advanced Guides](https://reactjs.org/docs/jsx-in-depth.html)
-* [API Reference](https://reactjs.org/docs/react-api.html)
-* [Where to Get Support](https://reactjs.org/community/support.html)
-* [Contributing Guide](https://reactjs.org/docs/how-to-contribute.html)
-
-You can improve it by sending pull requests to [this repository](https://github.com/reactjs/reactjs.org).
+https://www.facebook.com/whitehat
