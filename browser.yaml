@@ -3,9 +3,9 @@ microtrainings:
  
   - pattern: 'https?://?\.?(:.*|(/.*))?$'
     test: '/(w+)?(s*>s*)?(#w+)?s*(.w+)?s*{/gm'
-    category: 'Css Style Learning'
-    name: 'Css pattern'
-    path: './stackoverflow.md'
+    category: 'SAP Security Learning'
+    name: 'stackoverflow 1'
+    path: './stackoverflow2.md'
     enabled: true
   - pattern: '^https?://aws\.amazon\.com(:.*|(/.*))?$'
     category: 'Test Security Learning'
