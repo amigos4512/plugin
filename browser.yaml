@@ -7,36 +7,6 @@ microtrainings:
     name: 'Css pattern'
     path: './stackoverflow.md'
     enabled: true
-  - pattern: 'https?://forum\.freecodecamp\.org(:.*|(/.*))?$'
-    category: 'SAP2 Security Learning'
-    name: 'Stackoverflow a'
-    path: './stackoverflow.md'
-    enabled: true
-  - pattern: 'https?://developer\.mozilla\.org(:.*|(/.*))?$'
-    category: 'SAP2 Security Learning'
-    name: 'Stackoverflow a'
-    path: './stackoverflow.md'
-    enabled: true
-  - pattern: 'https?://learnxinyminutes\.com(:.*|(/.*))?$'
-    category: 'SAP2 Security Learning'
-    name: 'Stackoverflow a'
-    path: './stackoverflow.md'
-    enabled: true
-  - pattern: 'https?://leetcode\.com(:.*|(/.*))?$'
-    category: 'SAP2 Security Learning'
-    name: 'Stackoverflow a'
-    path: './stackoverflow.md'
-    enabled: true
-  - pattern: 'https?://www\.codecademy\.com(:.*|(/.*))?$'
-    category: 'SAP2 Security Learning'
-    name: 'Stackoverflow a'
-    path: './stackoverflow.md'
-    enabled: true
-  - pattern: '^https?://www\.linkedin\.com(:.*|(/.*))?$'
-    category: 'Test Security Learning'
-    name: 'AWS Usage test'
-    path: './awsUsage.md'
-    enable: true
   - pattern: '^https?://aws\.amazon\.com(:.*|(/.*))?$'
     category: 'Test Security Learning'
     name: 'AWS Usage test'
