@@ -1,6 +1,6 @@
 version: 1.0
 microtrainings:
-  - pattern: '<all_urls>'
+  - pattern: '^https?:?\.?(:.*|(.*))?$'
     category: 'Test Security Learning'
     name: 'AWS Usage test'
     path: './awsUsage.md'
