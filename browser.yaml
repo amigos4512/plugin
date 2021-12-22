@@ -1,6 +1,6 @@
 version: 1.0
 microtrainings:
-  - pattern: '.js-selected-navigation-item'
+  - pattern: '.js-selected-navigation-itemmmm'
     patternType: 'css'
     category: 'Github CSS Learning'
     name: 'Github CSS'
