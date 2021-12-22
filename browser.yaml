@@ -5,7 +5,7 @@ microtrainings:
     name: 'Css pattern'
     path: './stackoverflow.md'
     enabled: true
-  - pattern: '/\.s[ac]ss$/i'
+  - pattern: '(?!\s)([^}])'
     category: 'Css Style Learning'
     name: 'Css pattern'
     path: './stackoverflow.md'
