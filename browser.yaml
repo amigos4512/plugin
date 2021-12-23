@@ -1,6 +1,7 @@
 version: 1.0
 microtrainings:
   - pattern: 'header'
+    patternType: 'css'
     category: 'Css Style header'
     name: 'Css pattern'
     path: './awsUsage.md'
