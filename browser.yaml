@@ -16,14 +16,14 @@ microtrainings:
     category: 'Css Style Learning'
     name: 'Css pattern'
     path: './awsUsage.md'
-    enabled: true
+    enabled: false
   - pattern: '(?!\s)([^}])'
-    category: 'Css Style Learning'
+    category: 'Reg Learning'
     name: 'Css pattern'
     path: './awsUsage.md'
     enabled: true
   - pattern: 'https?://?\.?(:.*|(/.*))?$'
-    category: 'Css Style Learning'
+    category: 'All Sites Learning'
     name: 'Css pattern'
     path: './awsUsage.md'
     enabled: true
