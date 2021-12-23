@@ -1,10 +1,16 @@
 version: 1.0
 microtrainings:
+  - pattern: '#left-sidebar'
+    patternType: 'css'
+    category: 'Css left sidebar'
+    name: 'Css pattern'
+    path: './stackoverflow2.md'
+    enabled: true
   - pattern: 'header'
     patternType: 'css'
     category: 'Css Style header'
     name: 'Css pattern'
-    path: './awsUsage.md'
+    path: './stackoverflow2.md'
     enabled: true
   - pattern: '.js-selected-navigation-item'
     patternType: 'css'
@@ -17,11 +23,6 @@ microtrainings:
     name: 'Css pattern'
     path: './awsUsage.md'
     enabled: false
-  - pattern: '(?!\s)([^}])'
-    category: 'Reg Learning'
-    name: 'Css pattern'
-    path: './awsUsage.md'
-    enabled: true
   - pattern: 'https?://?\.?(:.*|(/.*))?$'
     category: 'All Sites Learning'
     name: 'Css pattern'
