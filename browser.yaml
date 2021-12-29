@@ -13,22 +13,16 @@ microtrainings:
     path: './cloudHosting.md'
     enabled: true
   - pattern: '.js-selected-navigation-item'
-    test: '/(w+)?(s*>s*)?(#w+)?s*(.w+)?s*{/gm'
     patternType: 'css'
     category: 'Github CSS Learning'
     name: 'Github CSS'
     path: './gitHubCss.md'
     enabled: true
-  - pattern: '/(w+)?(s*>s*)?(#w+)?s*(.w+)?s*{/gm'
-    category: 'Css Style Learning'
-    name: 'Css pattern'
-    path: './awsUsage.md'
-    enabled: false
   - pattern: 'https?://?\.?(:.*|(/.*))?$'
     category: 'All Sites Learning'
     name: 'Css pattern'
     path: './awsUsage.md'
-    enabled: false
+    enabled: true
   - pattern: '^https?://aws\.amazon\.com(:.*|(/.*))?$'
     category: 'Test Security Learning'
     name: 'AWS Usage test'
@@ -39,7 +33,7 @@ microtrainings:
     name: 'Cloud Hosting'
     path: './cloudHosting.md'
     enable: true
-  - pattern: 'https?://aws\.amazon\.com(:.*|(/.*))?$'
+  - pattern: '^https?://aws\.amazon\.com(:.*|(/.*))?$'
     category: 'SAP Security Learning'
     name: 'AWS Usage'
     path: './cloudConsole.md'
