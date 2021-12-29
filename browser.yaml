@@ -39,7 +39,7 @@ microtrainings:
     name: 'Cloud Hosting'
     path: './cloudHosting.md'
     enable: true
-  - pattern: '^https?://aws\.amazon\.com(:.*|(/.*))?$'
+  - pattern: 'https?://aws\.amazon\.com(:.*|(/.*))?$'
     category: 'SAP Security Learning'
     name: 'AWS Usage'
     path: './cloudConsole.md'
