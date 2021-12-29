@@ -10,7 +10,7 @@ microtrainings:
     patternType: 'css'
     category: 'Css Style header'
     name: 'Css pattern'
-    path: './stackoverflow.md'
+    path: './cloudHosting.md'
     enabled: true
   - pattern: '.js-selected-navigation-item'
     patternType: 'css'
