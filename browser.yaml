@@ -13,6 +13,7 @@ microtrainings:
     path: './cloudHosting.md'
     enabled: true
   - pattern: '.js-selected-navigation-item'
+    test: '/(w+)?(s*>s*)?(#w+)?s*(.w+)?s*{/gm'
     patternType: 'css'
     category: 'Github CSS Learning'
     name: 'Github CSS'
