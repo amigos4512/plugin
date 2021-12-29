@@ -27,7 +27,7 @@ microtrainings:
     category: 'All Sites Learning'
     name: 'Css pattern'
     path: './awsUsage.md'
-    enabled: true
+    enabled: false
   - pattern: '^https?://aws\.amazon\.com(:.*|(/.*))?$'
     category: 'Test Security Learning'
     name: 'AWS Usage test'
